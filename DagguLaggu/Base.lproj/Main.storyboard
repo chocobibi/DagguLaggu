@@ -23,7 +23,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="appicon.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="glV-pM-2ob">
-                                <rect key="frame" x="239" y="20" width="88" height="62"/>
+                                <rect key="frame" x="252" y="20" width="88" height="62"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
